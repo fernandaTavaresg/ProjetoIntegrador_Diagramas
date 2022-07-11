@@ -23,8 +23,8 @@ Esse projeto tem o objetivo de realizar analise de dados das frutas e hortaliça
  
 Esse diagrama é responsável por descrever o ponto de vista do usuário do sistema, descrevendo funcionalidades e acessos para cada tipo de usuário. Não é preciso descrever detalhes técnicos, como por exemplo como o sistema será implementado ou o que será feita, mas apenas o que será possui realizar nesse software quando ele estiver implementado. O Diagrama de casos de Uso é composto por os tipos de usuários (Cliente, Administrador, etc), cenário que é o fluxo/eventos que o usuário poderá acessar, use case são as tarefas e funções que o usuário poderá executar e a comunicação das tarefas com os usuários.
 
- 
- 
+ ![Diagrama de Caso de Uso](DiagramaCasodeUso.png)
+
  ## Diagrama de Modelagem do Banco de Dados 
 Esse diagrama é responsável por descrever 
 
