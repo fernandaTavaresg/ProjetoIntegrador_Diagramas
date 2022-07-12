@@ -29,7 +29,7 @@ Esse diagrama apresenta o fluxo de dois usuários diferentes ao aplicativo do pr
  ## Diagrama de Modelagem do Banco de Dados 
 Esse diagrama é responsável por estruturar dados do banco do projeto, incluindo sua estrutura lógica, relações e restrições, capazes de determinar como esses dados serão armazenados e manipulados. Há vários tipos de diagrama nesse contexto: Modelo de banco de dados hierárquico, Modelo relacional, Modelo de rede, Modelo de banco de dados orientado para objetos, Modelo entidade-relacionamento, Modelo documental, Modelo entidade-atributo-valor, Esquema em estrela e outros. Optamos por realizar o diagrama do projeto no Modelo Entidade Relacionamento, em que é baseado no mundo real, as entidades são objetos, que possuem seus atributos e se relacionam entre si.
 
- ![Diagrama de Caso de Uso](DiagramaModeloBD.png)
+ ![Modelagem do banco de dados](DiagramaModeloBD.png)
 
 
 ## Referências
