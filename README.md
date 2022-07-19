@@ -25,7 +25,7 @@ Esse diagrama é responsável por descrever o ponto de vista do usuário do sist
 
  ![Diagrama de Caso de Uso](DiagramaCasoDeUso.jpeg)
 
-Esse diagrama apresenta o fluxo do usuário para acesso ao aplicativo do projeto, o primeiro seria o de login que avançará diretamente para tela de login quando já possui usuário cadastrado, e outro fluxo para cadastrar o usuário, que passará inicialmente pela tela de cadastro para poder ter acesso as demais funcionalidades do software. Posteriamente, esse usuário chegará até o menu da fruta ou hortaliça, para escolher o produto que irá analisar, ao realizar a escolha irá para o menu de dados, para escolher entre: dados da temperatura, umidade e ventilação do ar, exibindo o dado coletado através do dispositivo e também a recomendação adequada para aquele produto. Também terá opções no menu referente a condições do ambiente, condições do transporte e dicas de conservação da fruta/hortaliça escolhida.
+Esse diagrama apresenta o fluxo do usuário para acesso ao aplicativo do projeto, o primeiro seria o de login que avançará diretamente para tela de login quando já possui usuário cadastrado, e outro fluxo para cadastrar o usuário, que passará inicialmente pela tela de cadastro para poder ter acesso as demais funcionalidades do software. Posteriamente, esse usuário chegará até o menu da fruta ou hortaliça, para escolher o produto que irá analisar, ao realizar a escolha irá para o menu de dados, para escolher entre: dados da temperatura, umidade e ventilação do ar, exibindo o dado coletado através do dispositivo e também a recomendação adequada para aquele produto. Também terá opções no menu referente a condições do ambiente, condições do transporte e dicas de conservação da fruta/hortaliça escolhida. 
 
  ## Diagrama de Modelagem do Banco de Dados 
 Esse diagrama é responsável por estruturar dados do banco do projeto, incluindo sua estrutura lógica, relações e restrições, capazes de determinar como esses dados serão armazenados e manipulados. Há vários tipos de diagrama nesse contexto: Modelo de banco de dados hierárquico, Modelo relacional, Modelo de rede, Modelo de banco de dados orientado para objetos, Modelo entidade-relacionamento, Modelo documental, Modelo entidade-atributo-valor, Esquema em estrela e outros. Optamos por realizar o diagrama do projeto no Modelo Entidade Relacionamento, em que é baseado no mundo real, as entidades são objetos, que possuem seus atributos e se relacionam entre si.
@@ -44,3 +44,7 @@ Site SAP. acesso em: https://www.sap.com/brazil/insights/what-is-data-modeling.h
 Site Escola superior de redes. acesso em: https://esr.rnp.br/desenvolvimento-de-sistemas/open-5/#:~:text=Modelagem%20de%20banco%20de%20dados%20%C3%A9%20o%20processo%20de%20levantamento,que%20ir%C3%A3o%20sustentar%20uma%20aplica%C3%A7%C3%A3o.
 
 Site LucidChart. acesso em: https://lucid.app/lucidchart/e1c7a36c-240e-4049-bfb2-650aff28889d/edit?beaconFlowId=0ECE9BEA7E0EE31F&page=HWEp-vi-RSFO&invitationId=inv_6b4c67f4-854b-4c64-adc9-eef34f715ad5#
+
+Diagramas de Caso de Uso, Copyright IBM Corporation, acesso em: https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=diagrams-use-case
+
+Entendendo o Diagrama de Sequência da UML. Ventura, Plínio. acesso em: https://www.ateomomento.com.br/diagrama-de-sequencia-uml/
