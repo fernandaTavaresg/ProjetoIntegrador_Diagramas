@@ -32,6 +32,7 @@ Esse diagrama é responsável por estruturar dados do banco do projeto, incluind
 
  ![Modelagem do banco de dados](DiagramaModeloBD.png)
 
+Esse diagrama representa a modelagem do banco de dados que será utilizado para o desenvolvimento do projeto, possuindo duas tabelas de armazenamento de dados. Uma para usuários, com seu nome, email e senha, para realizar cadastro e login no sistema. E outra para os dados dos produtos (frutas e hortaliças), com seu nome, dicas para sua conservação, dados referente a melhor temperatura, umidade e ventilação, como também transporte e ambiente adequado. E essas duas tabelas se relacionam de muitos para muitos, onde muitos usuários podem ter muitas frutas ou hortaliças e muitos produtos podem ter vários usuários.
 
 ## Referências
 Site DevMedia. acesso em:https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408
