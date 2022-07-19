@@ -37,6 +37,8 @@ Esse diagrama representa a modelagem do banco de dados que será utilizado para 
 ## Referências
 Site DevMedia. acesso em:https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408
 
+Site DevMedia. acesso em: https://www.devmedia.com.br/modelagem-1-n-ou-n-n/38894
+
 Site SAP. acesso em: https://www.sap.com/brazil/insights/what-is-data-modeling.html
 
 Site Escola superior de redes. acesso em: https://esr.rnp.br/desenvolvimento-de-sistemas/open-5/#:~:text=Modelagem%20de%20banco%20de%20dados%20%C3%A9%20o%20processo%20de%20levantamento,que%20ir%C3%A3o%20sustentar%20uma%20aplica%C3%A7%C3%A3o.
