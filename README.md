@@ -12,7 +12,7 @@ GRUPO:
  
 ORIENTADOR:
 
-COORIENTADOR:
+COORIENTADOR: GLENDA
 
  
  ## Ideia do Projeto
