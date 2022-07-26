@@ -25,6 +25,7 @@ Esse diagrama é responsável por descrever o ponto de vista do usuário do sist
 
  ![Diagrama de Caso de Uso](DiagramaCasoDeUso.JPG)
 ![Diagrama Caso de Uso](DiagramaAlterado.PNG)
+
 Esse diagrama apresenta o fluxo do usuário para acesso ao aplicativo do projeto, o primeiro seria o de login que avançará diretamente para tela de login quando já possui usuário cadastrado, e outro fluxo para cadastrar o usuário, que passará inicialmente pela tela de cadastro para poder ter acesso as demais funcionalidades do software. Posteriamente, esse usuário chegará até o menu da fruta ou hortaliça, para escolher o produto que irá analisar, ao realizar a escolha irá para o menu de dados, para escolher entre: dados da temperatura, umidade e ventilação do ar, exibindo o dado coletado através do dispositivo e também a recomendação adequada para aquele produto. Também terá opções no menu referente a condições do ambiente, condições do transporte e dicas de conservação da fruta/hortaliça escolhida. 
 
 A criação do diagrama de caso de uso neste projeto tem o intuito de demonstrar como o sistema vai apresentar o seu comportamento, definir a estrutura e o comportamento entre os elementos de modelo. Através dele percebemos sua utilidade e contribuição para criação do modelo da criação de banco de dados. Durante a criação percebemos que tivemos que fazer algumas alterações para que o formato fosse resumido, durante a criação houve alterações na  diminuição da quantidade de atores e no resumo do cenário.
